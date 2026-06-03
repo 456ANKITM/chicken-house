@@ -75,7 +75,7 @@ const Contact = () => {
 
               <div className="flex items-center gap-3">
                 <Phone className="text-yellow-400" />
-                +977 9800000000
+                +977 9823629155
               </div>
 
               <div className="flex items-center gap-3">
